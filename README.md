@@ -28,9 +28,9 @@ Once the server is up and running, you can interact with the sentiment analysis 
 
 Contributions are welcome! If you want to contribute to this project, please fork the repository and create a new branch. Submit any pull requests or open issues for further discussion.
 
-## License
+<!-- ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code for personal or commercial purposes.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code for personal or commercial purposes. -->
 
 ## Acknowledgements
 
