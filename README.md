@@ -11,8 +11,8 @@ This repository contains the code and resources for a sentiment analysis project
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/airline-sentiment-analysis.git`
-2. Navigate to the project directory: `cd airline-sentiment-analysis`
+1. Clone the repository: `git clone https://github.com/srivasPankhuri/Sentiment-Analysis-API.git`
+2. Navigate to the project directory: `cd Sentiment-Analysis-API`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
