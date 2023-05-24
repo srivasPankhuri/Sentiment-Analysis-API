@@ -19,7 +19,7 @@ This repository contains the code and resources for a sentiment analysis project
 
 1. Prepare your airline review data by placing it in the designated folder.
 2. Run the preprocessing script: `Sentiment_Analysis.ipynb`
-3. Train the sentiment analysis model: `python train.py`
+3. Train the sentiment analysis model: `main.py`
 4. Start the FastAPI server: `uvicorn main:app --reload`
 
 Once the server is up and running, you can interact with the sentiment analysis API by sending HTTP requests to the provided endpoints. Refer to the API documentation for detailed information on how to make requests and interpret the responses.
